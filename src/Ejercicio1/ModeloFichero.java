@@ -78,5 +78,6 @@ public class ModeloFichero
 		{
 			vistaFichero.dlgMensajes.setVisible(true);
 		}
+		
 	}
 }
